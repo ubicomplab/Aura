@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d5ef4e6-b520-45eb-b381-79292b5c1b4b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" afterPath="$PROJECT_DIR$/../.gitattributes" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/Altium~SSC-DFM_DS-final.RUL" afterPath="$PROJECT_DIR$/../PCB_Design/Altium~SSC-DFM_DS-final.RUL" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.1/AD8429/AD8429.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.1/AD8429/AD8429.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.1/LTC1983/LTC1983.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.1/LTC1983/LTC1983.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.1/PCB1_12.PcbDoc.htm" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.1/PCB1_12.PcbDoc.htm" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.1/RX_V0.1.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.1/RX_V0.1.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.2/AD8429/AD8429.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.2/AD8429/AD8429.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.2/LTC1983/LTC1983.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.2/LTC1983/LTC1983.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.2/RX_V0.2.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.2/RX_V0.2.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/AD8429/AD8429.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/AD8429/AD8429.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/Design Rule Check - RX_V0.drc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/Design Rule Check - RX_V0.drc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/Design Rule Check - RX_V0.html" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/Design Rule Check - RX_V0.html" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/LTC1983/LTC1983.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/LTC1983/LTC1983.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/RX_V0.3.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/RX_V0.3.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/RX_V0.3.step" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.3/RX_V0.3.step" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/AD8429/AD8429.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/AD8429/AD8429.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/Design Rule Check - RX_V0.drc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/Design Rule Check - RX_V0.drc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/LTC1983/LTC1983.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/LTC1983/LTC1983.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/RX_V0.4.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/RX_V0.4.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/RX_V0.4.step" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.4/RX_V0.4.step" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.5/AD8429/AD8429.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.5/AD8429/AD8429.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.5/Design Rule Check - RX_V0.drc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.5/Design Rule Check - RX_V0.drc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.5/LTC1983/LTC1983.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.5/LTC1983/LTC1983.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.5/RX_V0.5.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.5/RX_V0.5.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.6/AD8429/AD8429.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.6/AD8429/AD8429.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.6/LTC1983/LTC1983.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.6/LTC1983/LTC1983.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.6/RX_V0.6.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.6/RX_V0.6.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.7/AD8429/AD8429.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.7/AD8429/AD8429.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.7/LTC1983/LTC1983.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.7/LTC1983/LTC1983.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.7/RX_V0.7.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.7/RX_V0.7.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/AD8429/AD8429.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/AD8429/AD8429.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/ICM-20602 (1)/ICM-20602.lia" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/ICM-20602 (1)/ICM-20602.lia" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/ICM-20602/ICM-20602.lia" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/ICM-20602/ICM-20602.lia" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/ICM-20602/Imported ICM-20602.lia/ICM-20602.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/ICM-20602/Imported ICM-20602.lia/ICM-20602.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/LTC1983/LTC1983.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/LTC1983/LTC1983.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/MSOP8-0.5-2X2.3MM (1)/Imported MSOP8-0.5-2X2.3MM.lia/MSOP8-0.5-2X2.3MM.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/MSOP8-0.5-2X2.3MM (1)/Imported MSOP8-0.5-2X2.3MM.lia/MSOP8-0.5-2X2.3MM.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/MSOP8-0.5-2X2.3MM (1)/MSOP8-0.5-2X2.3MM.lia" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/MSOP8-0.5-2X2.3MM (1)/MSOP8-0.5-2X2.3MM.lia" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/MSOP8-0.5-2X2.3MM/Imported MSOP8-0.5-2X2.3MM.lia/MSOP8-0.5-2X2.3MM.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/MSOP8-0.5-2X2.3MM/Imported MSOP8-0.5-2X2.3MM.lia/MSOP8-0.5-2X2.3MM.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/MSOP8-0.5-2X2.3MM/MSOP8-0.5-2X2.3MM.lia" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/Library/MSOP8-0.5-2X2.3MM/MSOP8-0.5-2X2.3MM.lia" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/RX_V0.8.BomDoc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/RX_V0.8.BomDoc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/RX_V0.8.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/RX_V0.8.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/calibration.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/calibration.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/calibration_simple.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/calibration_simple.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/coil_processing.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/coil_processing.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/coils.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/coils.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/coils.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/coils.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/filter.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/filter.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/filter_farshid.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/filter_farshid.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/filter_first_half.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/filter_first_half.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/imu.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/imu.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/low_pass.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/low_pass.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/mcu.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/mcu.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/multi.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/multi.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/peripherals.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.8/peripherals.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/RX_V0.9.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/RX_V0.9.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/RX_V0.9.step" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/RX_V0.9.step" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/coil_processing.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/coil_processing.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/coils.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/coils.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/filter.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/filter.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/imu.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/imu.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/mcu.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/mcu.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/rx_lowpass.asc" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/rx_lowpass.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/RX_V0.9.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/RX_V0.9.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/coil_processing.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/coil_processing.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/coils.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/coils.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/imu.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/imu.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/mcu.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9/mcu.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/TX_v1.OutJob" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/TX_v1.OutJob" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/TX_v1.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/TX_v1.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/AltiumDesigner.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/AltiumDesigner.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/AltiumDesigner.txt" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/AltiumDesigner.txt" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/UL_Form.dfm" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/UL_Form.dfm" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/UL_Form.pas" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/UL_Form.pas" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/UL_Import.PrjScr" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/UL_Import.PrjScr" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/UL_Import.pas" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/UL_Import.pas" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/readme.txt" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/exports/AltiumDesigner/AltiumDesigner/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GBL" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GBL" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GBO" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GBO" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GBP" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GBP" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GBS" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GBS" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GKO" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GKO" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GM1" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GM1" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GM13" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GM13" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GM15" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GM15" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GPB" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GPB" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GPT" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GPT" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GTL" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GTL" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GTO" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GTO" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GTP" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GTP" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GTS" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.GTS" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.TXT" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v1/TX_v1/fab_TX_v1/TX_v1.TXT" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v2/TX_v2.OutJob" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v2/TX_v2.OutJob" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v2/TX_v2.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v2/TX_v2.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v2/adg1604.LibPkg" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v2/adg1604.LibPkg" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v3/TX_v3.BomDoc" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v3/TX_v3.BomDoc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v3/TX_v3.Dat" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v3/TX_v3.Dat" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v3/TX_v3.OutJob" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v3/TX_v3.OutJob" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v3/TX_v3.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v3/TX_v3.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v3/filter.asc" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v3/filter.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v3/filter2.asc" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v3/filter2.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v4/TX_v4.BomDoc" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v4/TX_v4.BomDoc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v4/TX_v4.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v4/TX_v4.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v4/filter.asc" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v4/filter.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v5/TX_v5.BomDoc" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v5/TX_v5.BomDoc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v5/TX_v5.PcbDoc" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v5/TX_v5.PcbDoc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v5/TX_v5.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v5/TX_v5.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v5/all_pass.asc" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v5/all_pass.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v5/all_pass.net" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v5/filter.asc" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v5/filter.asc" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/UL_Form.dfm" afterPath="$PROJECT_DIR$/../PCB_Design/UL_Form.dfm" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/UL_Form.pas" afterPath="$PROJECT_DIR$/../PCB_Design/UL_Form.pas" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/UL_Import.PrjScr" afterPath="$PROJECT_DIR$/../PCB_Design/UL_Import.PrjScr" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/UL_Import.pas" afterPath="$PROJECT_DIR$/../PCB_Design/UL_Import.pas" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/ring_rx_v1/coil_processing.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/ring_rx_v1/coil_processing.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/ring_rx_v1/coils.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/ring_rx_v1/coils.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/ring_rx_v1/mcu.Harness" afterPath="$PROJECT_DIR$/../PCB_Design/ring_rx_v1/mcu.Harness" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/ring_rx_v1/ring_rx_v1.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/ring_rx_v1/ring_rx_v1.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/ring_v1/ring_v1.PrjPcb" afterPath="$PROJECT_DIR$/../PCB_Design/ring_v1/ring_v1.PrjPcb" />
+      <change beforePath="$PROJECT_DIR$/../analysis/coils.nb" afterPath="$PROJECT_DIR$/../analysis/coils.nb" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/.gitignore" afterPath="$PROJECT_DIR$/../archive/forward_model/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/analysis/analyze_timing.py" afterPath="$PROJECT_DIR$/../archive/forward_model/analysis/analyze_timing.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/analysis/compare_files.py" afterPath="$PROJECT_DIR$/../archive/forward_model/analysis/compare_files.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/analysis/polar.py" afterPath="$PROJECT_DIR$/../archive/forward_model/analysis/polar.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/animatedPlot.ipynb" afterPath="$PROJECT_DIR$/../archive/forward_model/animatedPlot.ipynb" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/animatedPlot.py" afterPath="$PROJECT_DIR$/../archive/forward_model/animatedPlot.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/combine_processed_files.py" afterPath="$PROJECT_DIR$/../archive/forward_model/combine_processed_files.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/combine_processed_files_rnn.py" afterPath="$PROJECT_DIR$/../archive/forward_model/combine_processed_files_rnn.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/evaluate.py" afterPath="$PROJECT_DIR$/../archive/forward_model/evaluate.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/evaluate_forward.py" afterPath="$PROJECT_DIR$/../archive/forward_model/evaluate_forward.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/kalman_test.py" afterPath="$PROJECT_DIR$/../archive/forward_model/kalman_test.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/make_dataset.py" afterPath="$PROJECT_DIR$/../archive/forward_model/make_dataset.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/preprocessing/make_rnn_data.py" afterPath="$PROJECT_DIR$/../archive/forward_model/preprocessing/make_rnn_data.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step1_extract_coordinates.py" afterPath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step1_extract_coordinates.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step25_combine_for_training.py" afterPath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step25_combine_for_training.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step26_split_for_training.py" afterPath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step26_split_for_training.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step2_resample_and_filter.py" afterPath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step2_resample_and_filter.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step3_feature_extraction.py" afterPath="$PROJECT_DIR$/../archive/forward_model/preprocessing/step3_feature_extraction.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/prt_test.py" afterPath="$PROJECT_DIR$/../archive/forward_model/prt_test.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/resample.py" afterPath="$PROJECT_DIR$/../archive/forward_model/resample.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/settings.py" afterPath="$PROJECT_DIR$/../archive/forward_model/settings.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/data_loading.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training/data_loading.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/estimator._forwardpy" afterPath="$PROJECT_DIR$/../archive/forward_model/training/estimator._forwardpy" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/estimator.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training/estimator.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/estimator2.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training/estimator2.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/estimator_forward.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training/estimator_forward.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/learn.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training/learn.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/learn_forward.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training/learn_forward.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/rnn_data_loading.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training/rnn_data_loading.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/rnn_estimator.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training/rnn_estimator.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training/rnn_learn.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training/rnn_learn.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/training_pytorch/learn_pytorch.py" afterPath="$PROJECT_DIR$/../archive/forward_model/training_pytorch/learn_pytorch.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/forward_model/utils.py" afterPath="$PROJECT_DIR$/../archive/forward_model/utils.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/learn-torch/data.py" afterPath="$PROJECT_DIR$/../archive/learn-torch/data.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/learn-torch/forward_model.py" afterPath="$PROJECT_DIR$/../archive/learn-torch/forward_model.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/learn-torch/train_forward.py" afterPath="$PROJECT_DIR$/../archive/learn-torch/train_forward.py" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/BSmag_add_filament.m" afterPath="$PROJECT_DIR$/../archive/physics_model/BSmag_add_filament.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/BSmag_get_B.m" afterPath="$PROJECT_DIR$/../archive/physics_model/BSmag_get_B.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/BSmag_init.m" afterPath="$PROJECT_DIR$/../archive/physics_model/BSmag_init.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/BSmag_plot_field_points.m" afterPath="$PROJECT_DIR$/../archive/physics_model/BSmag_plot_field_points.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/BSmagtest.m" afterPath="$PROJECT_DIR$/../archive/physics_model/BSmagtest.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/cost.m" afterPath="$PROJECT_DIR$/../archive/physics_model/cost.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/decode.m" afterPath="$PROJECT_DIR$/../archive/physics_model/decode.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/encode.m" afterPath="$PROJECT_DIR$/../archive/physics_model/encode.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/forward.m" afterPath="$PROJECT_DIR$/../archive/physics_model/forward.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/optimize.m" afterPath="$PROJECT_DIR$/../archive/physics_model/optimize.m" />
+      <change beforePath="$PROJECT_DIR$/../archive/physics_model/resampled_onlybest_test.csv" afterPath="$PROJECT_DIR$/../archive/physics_model/resampled_onlybest_test.csv" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/.gitignore" afterPath="$PROJECT_DIR$/../cmagnets/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/CMakeLists.txt" afterPath="$PROJECT_DIR$/../cmagnets/CMakeLists.txt" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/Parser.cpp" afterPath="$PROJECT_DIR$/../cmagnets/Parser.cpp" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/Parser.h" afterPath="$PROJECT_DIR$/../cmagnets/Parser.h" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/cmake/FindFTD2XX.cmake" afterPath="$PROJECT_DIR$/../cmagnets/cmake/FindFTD2XX.cmake" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/common.h" afterPath="$PROJECT_DIR$/../cmagnets/common.h" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/dummy_source.cpp" afterPath="$PROJECT_DIR$/../cmagnets/dummy_source.cpp" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/dummy_source.h" afterPath="$PROJECT_DIR$/../cmagnets/dummy_source.h" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/main.cpp" afterPath="$PROJECT_DIR$/../cmagnets/main.cpp" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/serial_source.cpp" afterPath="$PROJECT_DIR$/../cmagnets/serial_source.cpp" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/serial_source.h" afterPath="$PROJECT_DIR$/../cmagnets/serial_source.h" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/source.cpp" afterPath="$PROJECT_DIR$/../cmagnets/source.cpp" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/source.h" afterPath="$PROJECT_DIR$/../cmagnets/source.h" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/win32/ftd2xx.h" afterPath="$PROJECT_DIR$/../cmagnets/win32/ftd2xx.h" />
+      <change beforePath="$PROJECT_DIR$/../documentation/magfingers.aux" afterPath="$PROJECT_DIR$/../documentation/magfingers.aux" />
+      <change beforePath="$PROJECT_DIR$/../documentation/magfingers.fdb_latexmk" afterPath="$PROJECT_DIR$/../documentation/magfingers.fdb_latexmk" />
+      <change beforePath="$PROJECT_DIR$/../documentation/magfingers.fls" afterPath="$PROJECT_DIR$/../documentation/magfingers.fls" />
+      <change beforePath="$PROJECT_DIR$/../documentation/magfingers.log" afterPath="$PROJECT_DIR$/../documentation/magfingers.log" />
+      <change beforePath="$PROJECT_DIR$/../documentation/magfingers.out" afterPath="$PROJECT_DIR$/../documentation/magfingers.out" />
+      <change beforePath="$PROJECT_DIR$/../documentation/magfingers.tex" afterPath="$PROJECT_DIR$/../documentation/magfingers.tex" />
+      <change beforePath="$PROJECT_DIR$/../fft_plot.m" afterPath="$PROJECT_DIR$/../fft_plot.m" />
+      <change beforePath="$PROJECT_DIR$/../figures/receiver.svg" afterPath="$PROJECT_DIR$/../figures/receiver.svg" />
+      <change beforePath="$PROJECT_DIR$/../figures/tranmitter.svg" afterPath="$PROJECT_DIR$/../figures/tranmitter.svg" />
+      <change beforePath="$PROJECT_DIR$/../firmware/.gitignore" afterPath="$PROJECT_DIR$/../firmware/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/.cproject" afterPath="$PROJECT_DIR$/../firmware/rx/.cproject" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/.launches/rx.launch" afterPath="$PROJECT_DIR$/../firmware/rx/.launches/rx.launch" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/.project" afterPath="$PROJECT_DIR$/../firmware/rx/.project" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/.settings/org.eclipse.cdt.codan.core.prefs" afterPath="$PROJECT_DIR$/../firmware/rx/.settings/org.eclipse.cdt.codan.core.prefs" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/.settings/org.eclipse.cdt.debug.core.prefs" afterPath="$PROJECT_DIR$/../firmware/rx/.settings/org.eclipse.cdt.debug.core.prefs" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/../firmware/rx/.settings/org.eclipse.core.resources.prefs" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/adc.c" afterPath="$PROJECT_DIR$/../firmware/rx/adc.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/adc.h" afterPath="$PROJECT_DIR$/../firmware/rx/adc.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/cs.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/cs.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/cs.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/cs.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/driverlib.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/driverlib.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_a_spi.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_a_spi.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_a_spi.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_a_spi.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_a_uart.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_a_uart.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_a_uart.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_a_uart.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_b_i2c.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_b_i2c.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_b_i2c.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_b_i2c.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_b_spi.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_b_spi.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_b_spi.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/eusci_b_spi.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/flashctl.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/flashctl.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/flashctl.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/flashctl.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/gpio.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/gpio.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/gpio.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/gpio.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/inc/hw_memmap.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/inc/hw_memmap.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/inc/version.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/inc/version.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/mpy.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/mpy.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/mpy.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/mpy.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/pmm.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/pmm.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/pmm.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/pmm.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/sd24.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/sd24.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/sd24.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/sd24.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/sfr.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/sfr.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/sfr.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/sfr.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/timer_a.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/timer_a.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/timer_a.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/timer_a.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/tlv.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/tlv.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/tlv.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/tlv.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/wdt.c" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/wdt.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/wdt.h" afterPath="$PROJECT_DIR$/../firmware/rx/driverlib/MSP430i2xx/wdt.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/lnk_msp430i2031.cmd" afterPath="$PROJECT_DIR$/../firmware/rx/lnk_msp430i2031.cmd" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/main.c" afterPath="$PROJECT_DIR$/../firmware/rx/main.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/targetConfigs/MSP430i2031.ccxml" afterPath="$PROJECT_DIR$/../firmware/rx/targetConfigs/MSP430i2031.ccxml" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/targetConfigs/readme.txt" afterPath="$PROJECT_DIR$/../firmware/rx/targetConfigs/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/timer.c" afterPath="$PROJECT_DIR$/../firmware/rx/timer.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/timer.h" afterPath="$PROJECT_DIR$/../firmware/rx/timer.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/uart.c" afterPath="$PROJECT_DIR$/../firmware/rx/uart.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/rx/uart.h" afterPath="$PROJECT_DIR$/../firmware/rx/uart.h" />
+      <change beforePath="$PROJECT_DIR$/../firmware/slac676f/MSP430i20xx_Code_Examples/Assembly_CCS/!Readme.txt" afterPath="$PROJECT_DIR$/../firmware/slac676f/MSP430i20xx_Code_Examples/Assembly_CCS/!Readme.txt" />
+      <change beforePath="$PROJECT_DIR$/../firmware/slac676f/MSP430i20xx_Code_Examples/Assembly_IAR/!Readme.txt" afterPath="$PROJECT_DIR$/../firmware/slac676f/MSP430i20xx_Code_Examples/Assembly_IAR/!Readme.txt" />
+      <change beforePath="$PROJECT_DIR$/../firmware/slac676f/MSP430i20xx_Code_Examples/C/!Readme.txt" afterPath="$PROJECT_DIR$/../firmware/slac676f/MSP430i20xx_Code_Examples/C/!Readme.txt" />
+      <change beforePath="$PROJECT_DIR$/../firmware/test/.ccsproject" afterPath="$PROJECT_DIR$/../firmware/test/.ccsproject" />
+      <change beforePath="$PROJECT_DIR$/../firmware/test/.project" afterPath="$PROJECT_DIR$/../firmware/test/.project" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx-v0.1/slac715d/MSP430FR21xx_MSP430FR2000_Code_Examples/Assembly_CCS/!Readme.txt" afterPath="$PROJECT_DIR$/../firmware/tx-v0.1/slac715d/MSP430FR21xx_MSP430FR2000_Code_Examples/Assembly_CCS/!Readme.txt" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx-v0.1/slac715d/MSP430FR21xx_MSP430FR2000_Code_Examples/Assembly_IAR/!Readme.txt" afterPath="$PROJECT_DIR$/../firmware/tx-v0.1/slac715d/MSP430FR21xx_MSP430FR2000_Code_Examples/Assembly_IAR/!Readme.txt" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx-v0.1/slac715d/MSP430FR21xx_MSP430FR2000_Code_Examples/C/!Readme.txt" afterPath="$PROJECT_DIR$/../firmware/tx-v0.1/slac715d/MSP430FR21xx_MSP430FR2000_Code_Examples/C/!Readme.txt" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/.ccsproject" afterPath="$PROJECT_DIR$/../firmware/tx/.ccsproject" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/.cproject" afterPath="$PROJECT_DIR$/../firmware/tx/.cproject" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/.launches/tx.launch" afterPath="$PROJECT_DIR$/../firmware/tx/.launches/tx.launch" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/.project" afterPath="$PROJECT_DIR$/../firmware/tx/.project" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/.settings/org.eclipse.cdt.codan.core.prefs" afterPath="$PROJECT_DIR$/../firmware/tx/.settings/org.eclipse.cdt.codan.core.prefs" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/.settings/org.eclipse.cdt.debug.core.prefs" afterPath="$PROJECT_DIR$/../firmware/tx/.settings/org.eclipse.cdt.debug.core.prefs" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/../firmware/tx/.settings/org.eclipse.core.resources.prefs" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/lnk_msp430fr2100.cmd" afterPath="$PROJECT_DIR$/../firmware/tx/lnk_msp430fr2100.cmd" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/main.c" afterPath="$PROJECT_DIR$/../firmware/tx/main.c" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/targetConfigs/MSP430FR2100.ccxml" afterPath="$PROJECT_DIR$/../firmware/tx/targetConfigs/MSP430FR2100.ccxml" />
+      <change beforePath="$PROJECT_DIR$/../firmware/tx/targetConfigs/readme.txt" afterPath="$PROJECT_DIR$/../firmware/tx/targetConfigs/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/../hardware/rx3/3DCC08.step" afterPath="$PROJECT_DIR$/../hardware/rx3/3DCC08.step" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx2/3coil/coil-all.IGS.txt" afterPath="$PROJECT_DIR$/../hardware/tx2/3coil/coil-all.IGS.txt" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx2/Gear VR 2017 - OBJ/Gear VR 2017.mtl" afterPath="$PROJECT_DIR$/../hardware/tx2/Gear VR 2017 - OBJ/Gear VR 2017.mtl" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx2/Gear VR 2017 - OBJ/Gear VR 2017.obj" afterPath="$PROJECT_DIR$/../hardware/tx2/Gear VR 2017 - OBJ/Gear VR 2017.obj" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx2/gearvr/-SAMSUNG GEAR V02.STEP" afterPath="$PROJECT_DIR$/../hardware/tx2/gearvr/-SAMSUNG GEAR V02.STEP" />
+      <change beforePath="$PROJECT_DIR$/../iq.m" afterPath="$PROJECT_DIR$/../iq.m" />
+      <change beforePath="$PROJECT_DIR$/../learning/.gitignore" afterPath="$PROJECT_DIR$/../learning/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../learning/analysis/analyze_timing.py" afterPath="$PROJECT_DIR$/../learning/analysis/analyze_timing.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/analysis/compare_files.py" afterPath="$PROJECT_DIR$/../learning/analysis/compare_files.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/analysis/polar.py" afterPath="$PROJECT_DIR$/../learning/analysis/polar.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/animatedPlot.py" afterPath="$PROJECT_DIR$/../learning/animatedPlot.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/calibration/analyze_calibration.py" afterPath="$PROJECT_DIR$/../learning/calibration/analyze_calibration.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/calibration/analyze_gain_calibration.py" afterPath="$PROJECT_DIR$/../learning/calibration/analyze_gain_calibration.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/calibration/calibrate.py" afterPath="$PROJECT_DIR$/../learning/calibration/calibrate.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/calibration/find_rigid_body_offset.py" afterPath="$PROJECT_DIR$/../learning/calibration/find_rigid_body_offset.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/combine_processed_files.py" afterPath="$PROJECT_DIR$/../learning/combine_processed_files.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/combine_processed_files_rnn.py" afterPath="$PROJECT_DIR$/../learning/combine_processed_files_rnn.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/evaluate.py" afterPath="$PROJECT_DIR$/../learning/evaluate.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/evaluate_forward.py" afterPath="$PROJECT_DIR$/../learning/evaluate_forward.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/kalman_test.py" afterPath="$PROJECT_DIR$/../learning/kalman_test.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/make_dataset.py" afterPath="$PROJECT_DIR$/../learning/make_dataset.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/analyze_positions.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/analyze_positions.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/analyze_times.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/analyze_times.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/make_rnn_data.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/make_rnn_data.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/segmentation2.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/segmentation2.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/step0_segment.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/step0_segment.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/step1_extract_coordinates.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/step1_extract_coordinates.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/step25_combine_for_training.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/step25_combine_for_training.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/step26_split_for_training.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/step26_split_for_training.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/step2_resample_and_filter.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/step2_resample_and_filter.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/preprocessing/step3_feature_extraction.py" afterPath="$PROJECT_DIR$/../learning/preprocessing/step3_feature_extraction.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/prt_test.py" afterPath="$PROJECT_DIR$/../learning/prt_test.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/resample.py" afterPath="$PROJECT_DIR$/../learning/resample.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/settings.py" afterPath="$PROJECT_DIR$/../learning/settings.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/data_loading.py" afterPath="$PROJECT_DIR$/../learning/training/data_loading.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/estimator._forwardpy" afterPath="$PROJECT_DIR$/../learning/training/estimator._forwardpy" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/estimator.py" afterPath="$PROJECT_DIR$/../learning/training/estimator.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/estimator2.py" afterPath="$PROJECT_DIR$/../learning/training/estimator2.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/estimator_forward.py" afterPath="$PROJECT_DIR$/../learning/training/estimator_forward.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/learn.py" afterPath="$PROJECT_DIR$/../learning/training/learn.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/learn_forward.py" afterPath="$PROJECT_DIR$/../learning/training/learn_forward.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/rnn_data_loading.py" afterPath="$PROJECT_DIR$/../learning/training/rnn_data_loading.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/rnn_estimator.py" afterPath="$PROJECT_DIR$/../learning/training/rnn_estimator.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training/rnn_learn.py" afterPath="$PROJECT_DIR$/../learning/training/rnn_learn.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/training_pytorch/learn_pytorch.py" afterPath="$PROJECT_DIR$/../learning/training_pytorch/learn_pytorch.py" />
+      <change beforePath="$PROJECT_DIR$/../learning/utils.py" afterPath="$PROJECT_DIR$/../learning/utils.py" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/BSmag_add_filament.m" afterPath="$PROJECT_DIR$/../magfield_simulations/BSmag_add_filament.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/BSmag_get_B.m" afterPath="$PROJECT_DIR$/../magfield_simulations/BSmag_get_B.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/BSmag_init.m" afterPath="$PROJECT_DIR$/../magfield_simulations/BSmag_init.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/BSmag_plot_field_points.m" afterPath="$PROJECT_DIR$/../magfield_simulations/BSmag_plot_field_points.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/BSmagtest.m" afterPath="$PROJECT_DIR$/../magfield_simulations/BSmagtest.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/Lcalc.m" afterPath="$PROJECT_DIR$/../magfield_simulations/Lcalc.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/LiCorr.m" afterPath="$PROJECT_DIR$/../magfield_simulations/LiCorr.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/analysis/gen_data.m" afterPath="$PROJECT_DIR$/../magfield_simulations/analysis/gen_data.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/calc_coil.m" afterPath="$PROJECT_DIR$/../magfield_simulations/calc_coil.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/NNsolver.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/NNsolver.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/actualCoil.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/actualCoil.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/calculateRotation.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/calculateRotation.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/ellips.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/ellips.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/eul.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/eul.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/evaluate_real.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/evaluate_real.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/field_actual_coil.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/field_actual_coil.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/field_coil_ellipse.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/field_coil_ellipse.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/field_dipole.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/field_dipole.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/field_models/BaseFieldModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/field_models/BaseFieldModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/field_models/DipoleModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/field_models/DipoleModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/field_models/actualModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/field_models/actualModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/field_models/ellipseModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/field_models/ellipseModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/gen_data_coil.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/gen_data_coil.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/gen_data_coil_multiRx.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/gen_data_coil_multiRx.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/gen_data_coil_singleTx.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/gen_data_coil_singleTx.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/gen_data_eric.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/gen_data_eric.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/gen_trace.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/gen_trace.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/hand_model.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/hand_model.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/hand_model_no_kinematics.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/hand_model_no_kinematics.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/load_gen_trace.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/load_gen_trace.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/load_new_trace.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/load_new_trace.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/load_trace.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/load_trace.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/nn_eval.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/nn_eval.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/position_pred.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/position_pred.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/processed__t1.csv" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/processed__t1.csv" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/receiver_models/BaseRxModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/receiver_models/BaseRxModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/receiver_models/Rx1.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/receiver_models/Rx1.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/receiver_models/Rx3.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/receiver_models/Rx3.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/resampled__t1.csv" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/resampled__t1.csv" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/test.m" afterPath="$PROJECT_DIR$/../magfield_simulations/coil/test.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/dipole/field.m" afterPath="$PROJECT_DIR$/../magfield_simulations/dipole/field.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/dipole/field2.m" afterPath="$PROJECT_DIR$/../magfield_simulations/dipole/field2.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/dipole/gen_data_dipole.m" afterPath="$PROJECT_DIR$/../magfield_simulations/dipole/gen_data_dipole.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/actualCoil.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/actualCoil.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/ellips.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/ellips.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_actual_coil.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_actual_coil.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_coil_ellipse.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_coil_ellipse.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_dipole.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_dipole.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_models/BaseFieldModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_models/BaseFieldModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_models/DipoleModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_models/DipoleModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_models/actualModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_models/actualModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_models/ellipseModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/field_models/ellipseModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/gen_data_coil.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/gen_data_coil.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/gen_data_coil_multiRx.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/gen_data_coil_multiRx.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/gen_data_coil_singleTx.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/gen_data_coil_singleTx.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/gen_data_eric.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/gen_data_eric.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/receiver_models/BaseRxModel.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/receiver_models/BaseRxModel.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/receiver_models/Rx1.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/receiver_models/Rx1.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/receiver_models/Rx3.m" afterPath="$PROJECT_DIR$/../magfield_simulations/farshid-legacy/receiver_models/Rx3.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/lib/Coil.m" afterPath="$PROJECT_DIR$/../magfield_simulations/lib/Coil.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/lib/Field.m" afterPath="$PROJECT_DIR$/../magfield_simulations/lib/Field.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/lib/GetMeasurements.m" afterPath="$PROJECT_DIR$/../magfield_simulations/lib/GetMeasurements.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/measure.m" afterPath="$PROJECT_DIR$/../magfield_simulations/measure.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/multicoil.m" afterPath="$PROJECT_DIR$/../magfield_simulations/multicoil.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/multipleRX/field.m" afterPath="$PROJECT_DIR$/../magfield_simulations/multipleRX/field.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/multipleRX/field2.m" afterPath="$PROJECT_DIR$/../magfield_simulations/multipleRX/field2.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/multipleRX/gen_data_dipole.m" afterPath="$PROJECT_DIR$/../magfield_simulations/multipleRX/gen_data_dipole.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/mut.m" afterPath="$PROJECT_DIR$/../magfield_simulations/mut.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/odCalc.m" afterPath="$PROJECT_DIR$/../magfield_simulations/odCalc.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/optimise.m" afterPath="$PROJECT_DIR$/../magfield_simulations/optimise.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/sim.csv" afterPath="$PROJECT_DIR$/../magfield_simulations/sim.csv" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/simulation/extracted_t1_march10.csv" afterPath="$PROJECT_DIR$/../magfield_simulations/simulation/extracted_t1_march10.csv" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/simulation/ls_noCrossTalk.m" afterPath="$PROJECT_DIR$/../magfield_simulations/simulation/ls_noCrossTalk.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/simulation/predict.m" afterPath="$PROJECT_DIR$/../magfield_simulations/simulation/predict.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/simulation/read_data.m" afterPath="$PROJECT_DIR$/../magfield_simulations/simulation/read_data.m" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/test.m" afterPath="$PROJECT_DIR$/../magfield_simulations/test.m" />
+      <change beforePath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.aux" afterPath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.aux" />
+      <change beforePath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.fdb_latexmk" afterPath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.fdb_latexmk" />
+      <change beforePath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.fls" afterPath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.fls" />
+      <change beforePath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.log" afterPath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.log" />
+      <change beforePath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.tex" afterPath="$PROJECT_DIR$/../mutual_inductance/mutual_inductance.tex" />
+      <change beforePath="$PROJECT_DIR$/../notes.txt" afterPath="$PROJECT_DIR$/../notes.txt" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/ML_model.py" afterPath="$PROJECT_DIR$/../opt-learning/ML_model.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/base.py" afterPath="$PROJECT_DIR$/../opt-learning/base.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/compare_models.py" afterPath="$PROJECT_DIR$/../opt-learning/compare_models.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/deep_model/estimator.py" afterPath="$PROJECT_DIR$/../opt-learning/deep_model/estimator.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/deep_model/make_dataset.py" afterPath="$PROJECT_DIR$/../opt-learning/deep_model/make_dataset.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/deep_model/tf_wrapper.py" afterPath="$PROJECT_DIR$/../opt-learning/deep_model/tf_wrapper.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/deep_model/train.py" afterPath="$PROJECT_DIR$/../opt-learning/deep_model/train.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/deep_model/utils.py" afterPath="$PROJECT_DIR$/../opt-learning/deep_model/utils.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/interp_final.py" afterPath="$PROJECT_DIR$/../opt-learning/interp_final.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/interp_model.py" afterPath="$PROJECT_DIR$/../opt-learning/interp_model.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/learn.py" afterPath="$PROJECT_DIR$/../opt-learning/learn.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/learn2.py" afterPath="$PROJECT_DIR$/../opt-learning/learn2.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/learn_3rx.py" afterPath="$PROJECT_DIR$/../opt-learning/learn_3rx.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/learn_angle.py" afterPath="$PROJECT_DIR$/../opt-learning/learn_angle.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/learn_utils.py" afterPath="$PROJECT_DIR$/../opt-learning/learn_utils.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/settings.py" afterPath="$PROJECT_DIR$/../opt-learning/settings.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/torch_model/data.py" afterPath="$PROJECT_DIR$/../opt-learning/torch_model/data.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/torch_model/forward_model.py" afterPath="$PROJECT_DIR$/../opt-learning/torch_model/forward_model.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/torch_model/reverse_model.py" afterPath="$PROJECT_DIR$/../opt-learning/torch_model/reverse_model.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/torch_model/test_k.py" afterPath="$PROJECT_DIR$/../opt-learning/torch_model/test_k.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/torch_model/torch_quat.py" afterPath="$PROJECT_DIR$/../opt-learning/torch_model/torch_quat.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/torch_model/torch_wrapper.py" afterPath="$PROJECT_DIR$/../opt-learning/torch_model/torch_wrapper.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/torch_model/train_forward.py" afterPath="$PROJECT_DIR$/../opt-learning/torch_model/train_forward.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/torch_model/train_reverse.py" afterPath="$PROJECT_DIR$/../opt-learning/torch_model/train_reverse.py" />
+      <change beforePath="$PROJECT_DIR$/../opt-learning/utils.py" afterPath="$PROJECT_DIR$/../opt-learning/utils.py" />
+      <change beforePath="$PROJECT_DIR$/../psoc/ComponentUpdateLog.txt" afterPath="$PROJECT_DIR$/../psoc/ComponentUpdateLog.txt" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp.cydsn/Export/PSoCCreatorExportIDE.xml" afterPath="$PROJECT_DIR$/../psoc/comp.cydsn/Export/PSoCCreatorExportIDE.xml" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp.cydsn/comp.cydwr" afterPath="$PROJECT_DIR$/../psoc/comp.cydsn/comp.cydwr" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp.cydsn/comp.cyprj" afterPath="$PROJECT_DIR$/../psoc/comp.cydsn/comp.cyprj" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp.cydsn/comp.svd" afterPath="$PROJECT_DIR$/../psoc/comp.cydsn/comp.svd" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp.cydsn/cyapicallbacks.h" afterPath="$PROJECT_DIR$/../psoc/comp.cydsn/cyapicallbacks.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp.cydsn/main.c" afterPath="$PROJECT_DIR$/../psoc/comp.cydsn/main.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/Export/PSoCCreatorExportIDE.xml" afterPath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/Export/PSoCCreatorExportIDE.xml" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/comp_Copy_01.cydwr" afterPath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/comp_Copy_01.cydwr" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/comp_Copy_01.cyprj" afterPath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/comp_Copy_01.cyprj" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/comp_Copy_01.svd" afterPath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/comp_Copy_01.svd" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/cyapicallbacks.h" afterPath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/cyapicallbacks.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/main.c" afterPath="$PROJECT_DIR$/../psoc/comp_Copy_01.cydsn/main.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest-000.cywrk" afterPath="$PROJECT_DIR$/../psoc/magtest-000.cywrk" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/ComponentUpdateLog.txt" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/ComponentUpdateLog.txt" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/Export/PSoCCreatorExportIDE.xml" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/Export/PSoCCreatorExportIDE.xml" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Cm3Iar.icf" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Cm3Iar.icf" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Cm3RealView.scat" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Cm3RealView.scat" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Cm3Start.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Cm3Start.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyBootAsmGnu.s" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyBootAsmGnu.s" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyBootAsmIar.s" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyBootAsmIar.s" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyBootAsmRv.s" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyBootAsmRv.s" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyDmac.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyDmac.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyDmac.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyDmac.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyFlash.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyFlash.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyFlash.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyFlash.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyLib.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyLib.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyLib.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CyLib.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CySpc.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CySpc.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CySpc.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/CySpc.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/PGA_1.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/PGA_1.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/PGA_1.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/PGA_1.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/PGA_1_PM.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/PGA_1_PM.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_1.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_1.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_1.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_1.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_1_aliases.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_1_aliases.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_2.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_2.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_2.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_2.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_2_aliases.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/Pin_2_aliases.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/bitstream.txt" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/bitstream.txt" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cm3gcc.ld" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cm3gcc.ld" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cmsis_armcc.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cmsis_armcc.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cmsis_gcc.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cmsis_gcc.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/config.hex" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/config.hex" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/core_cm3.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/core_cm3.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/core_cm3_psoc5.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/core_cm3_psoc5.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/core_cmFunc.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/core_cmFunc.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/core_cmInstr.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/core_cmInstr.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyPm.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyPm.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyPm.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyPm.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevice.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevice.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevice_trm.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevice_trm.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevicegnu.inc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevicegnu.inc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevicegnu_trm.inc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevicegnu_trm.inc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydeviceiar.inc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydeviceiar.inc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydeviceiar_trm.inc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydeviceiar_trm.inc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevicerv.inc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevicerv.inc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevicerv_trm.inc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydevicerv_trm.inc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydisabledsheets.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cydisabledsheets.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitter.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitter.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitter_cfg.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitter_cfg.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitter_cfg.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitter_cfg.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfittergnu.inc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfittergnu.inc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitteriar.inc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitteriar.inc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitterrv.inc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyfitterrv.inc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cymetadata.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cymetadata.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cypins.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cypins.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cytypes.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cytypes.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyutils.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/cyutils.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/device.lib" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/device.lib" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/elab_dependencies.txt" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/elab_dependencies.txt" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/generated_files.txt" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/generated_files.txt" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.bvf" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.bvf" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.ctl" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.ctl" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.pci" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.pci" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.pco" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.pco" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.plc_log" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.plc_log" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.rt_log" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.rt_log" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.sdc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.sdc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.sdf" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.sdf" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.svd" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.svd" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.tr" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.tr" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.v" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.v" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.vh2" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.vh2" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.wde" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest.wde" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_p.lib" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_p.lib" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_p.pco" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_p.pco" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_p.vh2" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_p.vh2" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_r.lib" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_r.lib" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_r.vh2" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_r.vh2" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_t.lib" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_t.lib" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_t.vh2" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_t.vh2" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_u.sdc" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/magtest_u.sdc" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/pins_99-WLCSP.xml" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/pins_99-WLCSP.xml" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/project.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/project.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/project_ids.txt" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/project_ids.txt" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/protect.hex" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/protect.hex" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/referenced_files.txt" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/referenced_files.txt" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/warp_dependencies.txt" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/autoseltemp/warp_dependencies.txt" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/cyapicallbacks.h" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/cyapicallbacks.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/magtest-000.cywrk" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/magtest-000.cywrk" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/magtest.cydwr" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/magtest.cydwr" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/magtest.cyprj" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/magtest.cyprj" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/magtest.svd" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/magtest.svd" />
+      <change beforePath="$PROJECT_DIR$/../psoc/magtest.cydsn/main.c" afterPath="$PROJECT_DIR$/../psoc/magtest.cydsn/main.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/pll.cydsn/cyapicallbacks.h" afterPath="$PROJECT_DIR$/../psoc/pll.cydsn/cyapicallbacks.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/pll.cydsn/main.c" afterPath="$PROJECT_DIR$/../psoc/pll.cydsn/main.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/pll.cydsn/pll.cydwr" afterPath="$PROJECT_DIR$/../psoc/pll.cydsn/pll.cydwr" />
+      <change beforePath="$PROJECT_DIR$/../psoc/pll.cydsn/pll.cyprj" afterPath="$PROJECT_DIR$/../psoc/pll.cydsn/pll.cyprj" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/Export/PSoCCreatorExportIDE.xml" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/Export/PSoCCreatorExportIDE.xml" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/cyapicallbacks.h" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/cyapicallbacks.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/dma.c" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/dma.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/dma.h" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/dma.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/main.c" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/main.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/main.h" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/main.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/rectifier.cydwr" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/rectifier.cydwr" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/rectifier.cyprj" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/rectifier.cyprj" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/rectifier.svd" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/rectifier.svd" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/segmentation.c" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/segmentation.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/segmentation.h" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/segmentation.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier.cydsn/segmentation2.c" afterPath="$PROJECT_DIR$/../psoc/rectifier.cydsn/segmentation2.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/Export/PSoCCreatorExportIDE.xml" afterPath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/Export/PSoCCreatorExportIDE.xml" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/KitProg2_Bootloader.hex" afterPath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/KitProg2_Bootloader.hex" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/cyapicallbacks.h" afterPath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/cyapicallbacks.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/main.c" afterPath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/main.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/rectifier_kitprog.cydwr" afterPath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/rectifier_kitprog.cydwr" />
+      <change beforePath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/rectifier_kitprog.cyprj" afterPath="$PROJECT_DIR$/../psoc/rectifier_kitprog.cydsn/rectifier_kitprog.cyprj" />
+      <change beforePath="$PROJECT_DIR$/../psoc/transmitter.cydsn/Export/PSoCCreatorExportIDE.xml" afterPath="$PROJECT_DIR$/../psoc/transmitter.cydsn/Export/PSoCCreatorExportIDE.xml" />
+      <change beforePath="$PROJECT_DIR$/../psoc/transmitter.cydsn/cyapicallbacks.h" afterPath="$PROJECT_DIR$/../psoc/transmitter.cydsn/cyapicallbacks.h" />
+      <change beforePath="$PROJECT_DIR$/../psoc/transmitter.cydsn/main.c" afterPath="$PROJECT_DIR$/../psoc/transmitter.cydsn/main.c" />
+      <change beforePath="$PROJECT_DIR$/../psoc/transmitter.cydsn/transmitter.cydwr" afterPath="$PROJECT_DIR$/../psoc/transmitter.cydsn/transmitter.cydwr" />
+      <change beforePath="$PROJECT_DIR$/../psoc/transmitter.cydsn/transmitter.cyprj" afterPath="$PROJECT_DIR$/../psoc/transmitter.cydsn/transmitter.cyprj" />
+      <change beforePath="$PROJECT_DIR$/../psoc/transmitter.cydsn/transmitter.svd" afterPath="$PROJECT_DIR$/../psoc/transmitter.cydsn/transmitter.svd" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/NatNetClient.py" afterPath="$PROJECT_DIR$/NatNetClient.py" />
+      <change beforePath="$PROJECT_DIR$/Segment_farshid.ipynb" afterPath="$PROJECT_DIR$/Segment_farshid.ipynb" />
+      <change beforePath="$PROJECT_DIR$/animate_raw_data.py" afterPath="$PROJECT_DIR$/animate_raw_data.py" />
+      <change beforePath="$PROJECT_DIR$/baud_rate.py" afterPath="$PROJECT_DIR$/baud_rate.py" />
+      <change beforePath="$PROJECT_DIR$/calibration_test.ipynb" afterPath="$PROJECT_DIR$/calibration_test.ipynb" />
+      <change beforePath="$PROJECT_DIR$/channel_split.py" afterPath="$PROJECT_DIR$/channel_split.py" />
+      <change beforePath="$PROJECT_DIR$/channel_split_v2.py" afterPath="$PROJECT_DIR$/channel_split_v2.py" />
+      <change beforePath="$PROJECT_DIR$/channel_split_v3.py" afterPath="$PROJECT_DIR$/channel_split_v3.py" />
+      <change beforePath="$PROJECT_DIR$/channel_split_v4.py" afterPath="$PROJECT_DIR$/channel_split_v4.py" />
+      <change beforePath="$PROJECT_DIR$/collect_calibration.py" afterPath="$PROJECT_DIR$/collect_calibration.py" />
+      <change beforePath="$PROJECT_DIR$/collect_gain_calibration.py" afterPath="$PROJECT_DIR$/collect_gain_calibration.py" />
+      <change beforePath="$PROJECT_DIR$/collect_training_data.py" afterPath="$PROJECT_DIR$/collect_training_data.py" />
+      <change beforePath="$PROJECT_DIR$/collect_vicon_marker_data.py" afterPath="$PROJECT_DIR$/collect_vicon_marker_data.py" />
+      <change beforePath="$PROJECT_DIR$/controller_lib.py" afterPath="$PROJECT_DIR$/controller_lib.py" />
+      <change beforePath="$PROJECT_DIR$/debug_raw.py" afterPath="$PROJECT_DIR$/debug_raw.py" />
+      <change beforePath="$PROJECT_DIR$/debug_segmented.py" afterPath="$PROJECT_DIR$/debug_segmented.py" />
+      <change beforePath="$PROJECT_DIR$/measure_rigid_body_transform.py" afterPath="$PROJECT_DIR$/measure_rigid_body_transform.py" />
+      <change beforePath="$PROJECT_DIR$/native_test.py" afterPath="$PROJECT_DIR$/native_test.py" />
+      <change beforePath="$PROJECT_DIR$/native_test_vispy.py" afterPath="$PROJECT_DIR$/native_test_vispy.py" />
+      <change beforePath="$PROJECT_DIR$/natnet_test.py" afterPath="$PROJECT_DIR$/natnet_test.py" />
+      <change beforePath="$PROJECT_DIR$/offline_segmentation.py" afterPath="$PROJECT_DIR$/offline_segmentation.py" />
+      <change beforePath="$PROJECT_DIR$/optitrack_lib.py" afterPath="$PROJECT_DIR$/optitrack_lib.py" />
+      <change beforePath="$PROJECT_DIR$/proto_gain.py" afterPath="$PROJECT_DIR$/proto_gain.py" />
+      <change beforePath="$PROJECT_DIR$/prt_natnet.py" afterPath="$PROJECT_DIR$/prt_natnet.py" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change beforePath="$PROJECT_DIR$/rigidbody.py" afterPath="$PROJECT_DIR$/rigidbody.py" />
+      <change beforePath="$PROJECT_DIR$/segment-f.py" afterPath="$PROJECT_DIR$/segment-f.py" />
+      <change beforePath="$PROJECT_DIR$/segmentation.py" afterPath="$PROJECT_DIR$/segmentation.py" />
+      <change beforePath="$PROJECT_DIR$/segmentation2.py" afterPath="$PROJECT_DIR$/segmentation2.py" />
+      <change beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
+      <change beforePath="$PROJECT_DIR$/speed_test.py" afterPath="$PROJECT_DIR$/speed_test.py" />
+      <change beforePath="$PROJECT_DIR$/test_calib.py" afterPath="$PROJECT_DIR$/test_calib.py" />
+      <change beforePath="$PROJECT_DIR$/vicon_lib.py" afterPath="$PROJECT_DIR$/vicon_lib.py" />
+      <change beforePath="$PROJECT_DIR$/view_raw.py" afterPath="$PROJECT_DIR$/view_raw.py" />
+      <change beforePath="$PROJECT_DIR$/vispy_mic_test.py" afterPath="$PROJECT_DIR$/vispy_mic_test.py" />
+      <change beforePath="$PROJECT_DIR$/vispy_plot.py" afterPath="$PROJECT_DIR$/vispy_plot.py" />
+      <change beforePath="$PROJECT_DIR$/../rc_filter.m" afterPath="$PROJECT_DIR$/../rc_filter.m" />
+      <change beforePath="$PROJECT_DIR$/../recordings/combo_18_01_23_15_30_05.txt" afterPath="$PROJECT_DIR$/../recordings/combo_18_01_23_15_30_05.txt" />
+      <change beforePath="$PROJECT_DIR$/../recordings/combo_18_02_02_17_13_05.txt" afterPath="$PROJECT_DIR$/../recordings/combo_18_02_02_17_13_05.txt" />
+      <change beforePath="$PROJECT_DIR$/../recordings/mag_18_01_23_15_30_05.txt" afterPath="$PROJECT_DIR$/../recordings/mag_18_01_23_15_30_05.txt" />
+      <change beforePath="$PROJECT_DIR$/../recordings/mag_18_02_02_17_13_05.txt" afterPath="$PROJECT_DIR$/../recordings/mag_18_02_02_17_13_05.txt" />
+      <change beforePath="$PROJECT_DIR$/../recordings/natnet_18_01_23_15_30_05.txt" afterPath="$PROJECT_DIR$/../recordings/natnet_18_01_23_15_30_05.txt" />
+      <change beforePath="$PROJECT_DIR$/../recordings/natnet_18_02_02_17_13_05.txt" afterPath="$PROJECT_DIR$/../recordings/natnet_18_02_02_17_13_05.txt" />
+      <change beforePath="$PROJECT_DIR$/../recordings/predictions_new_sep_alg.txt" afterPath="$PROJECT_DIR$/../recordings/predictions_new_sep_alg.txt" />
+      <change beforePath="$PROJECT_DIR$/../recordings/processed_first_try.csv" afterPath="$PROJECT_DIR$/../recordings/processed_first_try.csv" />
+      <change beforePath="$PROJECT_DIR$/../recordings/processed_new_sep_alg.csv" afterPath="$PROJECT_DIR$/../recordings/processed_new_sep_alg.csv" />
+      <change beforePath="$PROJECT_DIR$/../recordings/recordings.txt" afterPath="$PROJECT_DIR$/../recordings/recordings.txt" />
+      <change beforePath="$PROJECT_DIR$/../sched.txt" afterPath="$PROJECT_DIR$/../sched.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pymagnets$offline_segmentation.coverage" NAME="offline_segmentation Coverage Results" MODIFIED="1519183787964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pymagnets$collect_training_data.coverage" NAME="collect_training_data Coverage Results" MODIFIED="1544212475617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pymagnets$view_raw.coverage" NAME="view_raw Coverage Results" MODIFIED="1541645234661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pymagnets$segmentation.coverage" NAME="segmentation Coverage Results" MODIFIED="1518819747984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pymagnets$debug_raw.coverage" NAME="debug_raw Coverage Results" MODIFIED="1541704651675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="collect_training_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collect_training_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collect_gain_calibration.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/collect_gain_calibration.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="75" column="44" lean-forward="false" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vicon_lib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vicon_lib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="61" column="47" lean-forward="false" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mag-raw_18_12_07_11_39_06.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mag-raw_18_12_07_11_39_06.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1357">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mag-raw_18_12_07_11_37_13.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mag-raw_18_12_07_11_37_13.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13331">
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mag-raw_18_12_07_11_35_46.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mag-raw_18_12_07_11_35_46.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller_lib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller_lib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="105" column="31" lean-forward="false" selection-start-line="105" selection-start-column="31" selection-end-line="105" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/pyrealtime/pyrealtime/plotting/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="186" column="6" lean-forward="false" selection-start-line="186" selection-start-column="6" selection-end-line="186" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>24</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/debug_recordings/segment-f.py" />
+        <option value="$PROJECT_DIR$/segment-f.py" />
+        <option value="$PROJECT_DIR$/segmentation.py" />
+        <option value="$PROJECT_DIR$/offline_segmentation.py" />
+        <option value="$PROJECT_DIR$/segmentation2.py" />
+        <option value="$PROJECT_DIR$/view_raw.py" />
+        <option value="$PROJECT_DIR$/vicon_test.py" />
+        <option value="$PROJECT_DIR$/debug_raw.py" />
+        <option value="$PROJECT_DIR$/vicon_lib.py" />
+        <option value="$PROJECT_DIR$/collect_training_data.py" />
+        <option value="$PROJECT_DIR$/controller_lib.py" />
+        <option value="$PROJECT_DIR$/collect_gain_calibration.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pymagnets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pymagnets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pymagnets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pymagnets" type="462c0819:PsiDirectoryNode" />
+              <item name="calibrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\farsh\Dropbox\Ubicomp-projects\mag-fingers\pymagnets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.collect_gain_calibration">
+    <configuration name="collect_gain_calibration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pymagnets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect_gain_calibration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="debug_raw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pymagnets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debug_raw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="offline_segmentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pymagnets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offline_segmentation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vicon_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pymagnets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vicon_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="view_raw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pymagnets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/view_raw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="pymagnets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.collect_gain_calibration" />
+      <item itemvalue="Python.debug_raw" />
+      <item itemvalue="Python.offline_segmentation" />
+      <item itemvalue="Python.vicon_test" />
+      <item itemvalue="Python.view_raw" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.collect_gain_calibration" />
+        <item itemvalue="Python.offline_segmentation" />
+        <item itemvalue="Python.view_raw" />
+        <item itemvalue="Python.debug_raw" />
+        <item itemvalue="Python.vicon_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d5ef4e6-b520-45eb-b381-79292b5c1b4b" name="Default" comment="" />
+      <created>1518818103373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518818103373</updated>
+      <workItem from="1544135119720" duration="1588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4064000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/debug_raw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collect_training_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_raw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collect_training_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_raw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="48" column="15" lean-forward="true" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collect_training_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/warnings.py" />
+    <entry file="file://$PROJECT_DIR$/debug_recordings/segment-f.py" />
+    <entry file="file://$PROJECT_DIR$/Segment_farshid.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment-f.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/src/pyrealtime/pyrealtime/serial_layer.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/colorama/ansitowin32.py" />
+    <entry file="file://$USER_HOME$/src/pyrealtime/pyrealtime/layer.py" />
+    <entry file="file://$USER_HOME$/src/pyrealtime/pyrealtime/filter_layers.py" />
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/natnet_ch3_18_11_20_14_39_18.txt" />
+    <entry file="file://$PROJECT_DIR$/mag-raw_ch3_18_11_20_14_39_18.txt" />
+    <entry file="file://$PROJECT_DIR$/natnet_ch2_18_11_08_16_16_49.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eric_18_11_20_14_55_21.txt" />
+    <entry file="file://$PROJECT_DIR$/segmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2300">
+          <caret line="94" column="49" lean-forward="false" selection-start-line="94" selection-start-column="49" selection-end-line="94" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segmentation2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offline_segmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/natnet_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vicon_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_raw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prt_natnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_raw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyrealtime/pyrealtime/network_layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="136" column="16" lean-forward="false" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mag-raw_18_12_07_11_35_46.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mag-raw_18_12_07_11_37_13.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13331">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mag-raw_18_12_07_11_39_06.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/pyrealtime/pyrealtime/plotting/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="186" column="6" lean-forward="false" selection-start-line="186" selection-start-column="6" selection-end-line="186" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collect_training_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vicon_lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="61" column="47" lean-forward="false" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller_lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="105" column="31" lean-forward="false" selection-start-line="105" selection-start-column="31" selection-end-line="105" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collect_gain_calibration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="75" column="44" lean-forward="false" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+**/*.index
+**/*ckpt*
+**/checkpoint
+**/*.pbtxt
+**/eval/
+**/events.out*
+*.txt

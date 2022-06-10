@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0a10c89-670e-4dbe-98ce-8ce2d5b39215" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/coil_processing.Harness" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/coil_processing.Harness" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/coils.Harness" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/coils.Harness" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/mcu.Harness" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V0.9-2/mcu.Harness" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/RX.PcbDoc" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/RX.PcbDoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/RX_V1.0.PrjPcb" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/RX_V1.0.PrjPcb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/mcu.SchDoc" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/mcu.SchDoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/power.SchDoc" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/power.SchDoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/rx.SchDoc" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/rx.SchDoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/usb.SchDoc" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/RX_V1.0/usb.SchDoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PCB_Design/TX_v5/power.SchDoc" beforeDir="false" afterPath="$PROJECT_DIR$/../PCB_Design/TX_v5/power.SchDoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Two inductively coupled RLC circuits.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmagnets/cmagnets/.dropbox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx3/3coil/~$3coil_assem.SLDASM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx3/3coil/~$case.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx3/3coil/~$coils.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx3/3coil/~$electronics.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx3/3coil/~$side_coil.sldprt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/tx3/Gear VR 2017 - OBJ/~$Gear VR 2017_surf_import.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalman_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/kalman_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/hand_model.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../magfield_simulations/coil/hand_model_no_kinematics.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pymagnets/collect_training_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pymagnets/collect_training_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unity-viz/mag-playback/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../unity-viz/mag-playback/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unity-viz/mag-playback/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../unity-viz/mag-playback/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/learning$step1_extract_coordinates.coverage" NAME="step1_extract_coordinates Coverage Results" MODIFIED="1555721788939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocessing" />
+    <SUITE FILE_PATH="coverage/learning$step3_feature_extraction.coverage" NAME="step3_feature_extraction Coverage Results" MODIFIED="1576601022913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocessing" />
+    <SUITE FILE_PATH="coverage/learning$animatedPlot.coverage" NAME="animatedPlot Coverage Results" MODIFIED="1517708406733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/learning$step0_segment.coverage" NAME="step0_segment Coverage Results" MODIFIED="1555721773403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocessing" />
+    <SUITE FILE_PATH="coverage/learning$estimator.coverage" NAME="estimator Coverage Results" MODIFIED="1529872493586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/learning$utils.coverage" NAME="utils Coverage Results" MODIFIED="1544319918360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learning$evaluate_forward.coverage" NAME="evaluate_forward Coverage Results" MODIFIED="1525408453802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learning$make_dataset.coverage" NAME="make_dataset Coverage Results" MODIFIED="1517358704755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learning$estimator_forward.coverage" NAME="estimator_forward Coverage Results" MODIFIED="1525407282723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/learning$learn.coverage" NAME="learn Coverage Results" MODIFIED="1534459070203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/learning$analyze_gain_calibration.coverage" NAME="analyze_gain_calibration Coverage Results" MODIFIED="1544231795631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calibration" />
+    <SUITE FILE_PATH="coverage/learning$evaluate.coverage" NAME="evaluate Coverage Results" MODIFIED="1529886642626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learning$data_loading.coverage" NAME="data_loading Coverage Results" MODIFIED="1527016724125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/learning$step2_resample_and_filter.coverage" NAME="step2_resample_and_filter Coverage Results" MODIFIED="1555722195432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocessing" />
+    <SUITE FILE_PATH="coverage/learning$learn_forward.coverage" NAME="learn_forward Coverage Results" MODIFIED="1525396709080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>OPTI_NAMES</find>
+      <find>PCA_NAME</find>
+      <find>pca_vecs</find>
+      <find>pca_scale</find>
+      <find>input_layer</find>
+      <find>prev_layer</find>
+      <find>norm_data</find>
+      <find>key</find>
+      <find>MAG_RAW_NAMES_2</find>
+      <find>NUM_RX_COILS</find>
+      <find>opti</find>
+      <find>mse_mm</find>
+      <find>Mul</find>
+      <find>100000</find>
+      <find>learning</find>
+      <find>dropout</find>
+      <find>pca</find>
+      <find>qua</find>
+      <find>get_no</find>
+      <find>segme</find>
+      <find>load_extracted_opti_data</find>
+      <find>comb</find>
+      <find>combo</find>
+      <find>load_file_by_id</find>
+      <find>plt.show</find>
+      <find>&gt;</find>
+      <find>&gt;&gt;&gt;&gt;</find>
+      <find>&gt;&gt;&gt;</find>
+      <find>asser</find>
+      <find>assert</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-3447" />
+    <option name="width" value="1734" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectId" id="1eJyQsgyiFudY4weVT1bg9xxAIq" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ar-debug-workbench/learning" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\farshid\Dropbox\Ubicomp-projects\mag-fingers\learning\preprocessing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.kalman_test">
+    <configuration name="kalman_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kalman_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="step1_extract_coordinates" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/step1_extract_coordinates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="step2_resample_and_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/step2_resample_and_filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="step3_feature_extraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocessing/step3_feature_extraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.kalman_test" />
+      <item itemvalue="Python.step1_extract_coordinates" />
+      <item itemvalue="Python.step2_resample_and_filter" />
+      <item itemvalue="Python.step3_feature_extraction" />
+      <item itemvalue="Python.utils" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kalman_test" />
+        <item itemvalue="Python.step3_feature_extraction" />
+        <item itemvalue="Python.step2_resample_and_filter" />
+        <item itemvalue="Python.step1_extract_coordinates" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0a10c89-670e-4dbe-98ce-8ce2d5b39215" name="Default" comment="" />
+      <created>1517354550210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517354550210</updated>
+      <workItem from="1544138473858" duration="22462000" />
+      <workItem from="1544319713798" duration="239000" />
+      <workItem from="1544319971587" duration="27027000" />
+      <workItem from="1544593874793" duration="16360000" />
+      <workItem from="1545162634485" duration="901000" />
+      <workItem from="1550254977886" duration="31000" />
+      <workItem from="1550259948079" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67265000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3447" y="0" width="1734" height="1407" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1594054052613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1594054052613" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1594054052613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1594054052613" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1594054052613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1594054052613" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1594054052613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="290" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1594054052613" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595803273624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1595803273624" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calibration/analyze_gain_calibration.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preprocessing/step2_resample_and_filter.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preprocessing/step2_resample_and_filter.py</url>
+          <line>290</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/preprocessing/step25_combine_for_training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/step26_split_for_training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing/step3_feature_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

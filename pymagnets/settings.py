@@ -1,0 +1,3 @@
+BAUD = 960000
+PORT = "COM19"#"USB Serial Port"
+# PORT = "FT232R USB UART"

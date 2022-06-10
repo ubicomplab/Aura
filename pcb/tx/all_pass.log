@@ -1,0 +1,180 @@
+Circuit: * D:\Users\farshid\Dropbox\Ubicomp-projects\mag-fingers\PCB_Design\TX_v5\all_pass.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 2.07126
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.66717
+vernier = 0.166667
+vernier = 0.0833333
+vernier = 0.0416667
+Gmin = 1.45843
+vernier = 0.0555555
+vernier = 0.0277778
+Gmin = 1.34243
+vernier = 0.037037
+vernier = 0.0185185
+Gmin = 1.27307
+vernier = 0.0246913
+vernier = 0.0123457
+Gmin = 1.2269
+vernier = 0.0164609
+vernier = 0.0219478
+vernier = 0.0109739
+Gmin = 1.18968
+vernier = 0.0146319
+vernier = 0.00731595
+Gmin = 1.16708
+vernier = 0.00975459
+vernier = 0.0130061
+vernier = 0.00650306
+Gmin = 1.14595
+vernier = 0.00867074
+vernier = 0.00433537
+Gmin = 1.13177
+vernier = 0.00578049
+vernier = 0.00770732
+Gmin = 1.11621
+vernier = 0.00385366
+vernier = 0.00513821
+Gmin = 1.10729
+vernier = 0.00685095
+vernier = 0.00342548
+vernier = 0.0045673
+Gmin = 1.09848
+vernier = 0.00228365
+vernier = 0.00304487
+Gmin = 1.09202
+vernier = 0.00405982
+vernier = 0.00202991
+Gmin = 1.08622
+vernier = 0.00270655
+vernier = 0.00360873
+vernier = 0.00180436
+Gmin = 1.08072
+vernier = 0.00240582
+Gmin = 1.07505
+vernier = 0.00320776
+vernier = 0.00160388
+vernier = 0.0021385
+Gmin = 1.07111
+vernier = 0.00285134
+vernier = 0.00142567
+Gmin = 1.0673
+vernier = 0.00190089
+vernier = 0.00253452
+vernier = 0.00126726
+Gmin = 1.06355
+vernier = 0.00168968
+Gmin = 1.05951
+vernier = 0.00225291
+vernier = 0.00112645
+vernier = 0.00150194
+Gmin = 1.05683
+vernier = 0.00200258
+vernier = 0.00100129
+Gmin = 1.05432
+vernier = 0.00133505
+vernier = 0.00178007
+vernier = 0.000890036
+Gmin = 1.05174
+vernier = 0.00118671
+vernier = 0.00158229
+Gmin = 1.04876
+vernier = 0.000791143
+vernier = 0.00105486
+Gmin = 1.04703
+vernier = 0.00140648
+vernier = 0.000703238
+vernier = 0.00093765
+Gmin = 1.04531
+vernier = 0.0012502
+vernier = 0.0006251
+Gmin = 1.0436
+vernier = 0.000833466
+vernier = 0.00111129
+vernier = 0.000555644
+Gmin = 1.04197
+vernier = 0.000740858
+Gmin = 1.04028
+vernier = 0.000987811
+vernier = 0.000493906
+vernier = 0.000658541
+Gmin = 1.03911
+vernier = 0.000878054
+vernier = 0.000439027
+Gmin = 1.03797
+vernier = 0.000585369
+vernier = 0.000780492
+vernier = 0.000585369
+Gmin = 1.03679
+vernier = 0.000780492
+vernier = 0.000585369
+Gmin = 1.03558
+vernier = 0.000780491
+vernier = 0.000585369
+vernier = 0.000780491
+vernier = 0.000585368
+Gmin = 1.03467
+vernier = 0.000780491
+vernier = 0.000585368
+Gmin = 1.03346
+vernier = 0.000439026
+vernier = 0.000585368
+vernier = 0.000439026
+Gmin = 1.03274
+vernier = 0.000585368
+vernier = 0.000439026
+Gmin = 1.03183
+vernier = 0.000585368
+vernier = 0.000439026
+vernier = 0.000585368
+Gmin = 1.03089
+vernier = 0.000439026
+vernier = 0.000585368
+vernier = 0.000439026
+Gmin = 1.03025
+vernier = 0.000585367
+vernier = 0.000439026
+Gmin = 1.02935
+vernier = 0.000585367
+vernier = 0.000439025
+vernier = 0.000585367
+vernier = 0.000439025
+Gmin = 1.02867
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+.step x=5
+.step x=10005
+
+
+
+Date: Wed Dec 05 11:53:34 2018
+Total elapsed time: 6.647 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 71224
+traniter = 40251
+tranpoints = 16557
+accept = 16070
+rejected = 487
+matrix size = 92
+fillins = 65
+solver = Normal
+Thread vector: 15.2/7.8[3] 4.4/4.2[1] 7.6/4.9[3] 0.2/1.0[1]  2592/500
+Matrix Compiler1: 5.80 KB object code size  2.5/0.6/[0.3]
+Matrix Compiler2: 7.72 KB object code size  0.9/1.4/[0.4]
+

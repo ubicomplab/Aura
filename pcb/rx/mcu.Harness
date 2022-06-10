@@ -1,0 +1,2 @@
+diff_signal=sig-,sig+
+SPI=CLK,CS,MISO,MOSI
